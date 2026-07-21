@@ -46,6 +46,23 @@ Board availability and firmware packages may evolve over time as the ecosystem e
 - Run as Administrator
 
 Please download only from this repository's **Releases** page.
+
+---
+
+## Technology
+
+Built as a native **Windows desktop** product with an enterprise tooling stack:
+
+| Layer | Technology |
+|-------|------------|
+| Language | **C#** |
+| Runtime | **.NET Framework 4.8** |
+| UI | **Windows Forms** |
+| Architecture | **Windows x64** only |
+| Distribution | Standalone protected executable (ZIP release) |
+
+The application integrates standard RP2350 flashing workflows (UF2 mass-storage and related host utilities) behind a guided operator UI.
+
 ---
 
 ## Getting started
