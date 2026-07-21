@@ -6,6 +6,10 @@ LU Pico Flasher is a Windows desktop utility designed to simplify the preparatio
 
 Powered by **[Legit Unlocks](https://www.legitunlocks.com/)**.
 
+<p align="center">
+  <img src="assets/screenshot.png" alt="LU Pico Flasher — Windows UI" width="820" />
+</p>
+
 ---
 
 ## Overview
