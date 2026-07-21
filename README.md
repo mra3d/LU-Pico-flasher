@@ -39,10 +39,13 @@ Board availability and firmware packages may evolve over time as the ecosystem e
 
 ## Downloads
 
-Official builds are published through **GitHub Releases**.
+**Latest release:** [v1.0.0](https://github.com/mra3d/LU-Pico-flasher/releases/tag/v1.0.0)
 
-> Release packages will be published here. Please download only from this repository's **Releases** page to ensure you receive authentic builds.
+- Download: [LU-Pico-flasher.zip](https://github.com/mra3d/LU-Pico-flasher/releases/download/v1.0.0/LU-Pico-flasher.zip)
+- Platform: Windows 10/11 x64
+- Run as Administrator
 
+Please download only from this repository's **Releases** page.
 ---
 
 ## Getting started
